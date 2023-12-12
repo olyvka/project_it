@@ -1,2 +1,5 @@
-# project_it
-командний проект по створенню книжкового магазину
+
+
+### Admin User
+- **uersname**: admin
+- **password**: admin123
